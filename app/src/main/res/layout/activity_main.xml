@@ -9,12 +9,12 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:layout_width="400dp"
-        android:layout_height="400dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:id="@+id/imgPhoto"
         android:layout_gravity="center"
         android:scaleType="centerInside"
-        android:background="@drawable/luffy"/>
+        android:src="@drawable/dor"/>
 
     <EditText
         android:id="@+id/etname"
